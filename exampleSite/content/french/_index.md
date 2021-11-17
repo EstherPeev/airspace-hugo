@@ -92,6 +92,6 @@ funfacts:
       make us stand out from the crowd.
 title: Association CLE
 description: Un petit text pour décrire brièvement - apparait!
-bg_image: "/images/example-red-tag-example-red-square-price-tag-117502755-1.jpeg"
+bg_image: "/images/teams/team-1.jpg"
 
 ---
