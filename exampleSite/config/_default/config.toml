@@ -1,5 +1,5 @@
 baseURL = "https://cleassociation.ch"
-disableLanguages = []
+disableLanguages = ["en"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 hasCJKLanguage = false
