@@ -93,6 +93,5 @@ funfacts:
 title: Association CLE
 description: Un petit text pour décrire brièvement
 bg_image: "/images/example-red-tag-example-red-square-price-tag-117502755-1.jpeg"
-draft: true
 
 ---
